@@ -1,1 +1,1 @@
-{"apkUrl":"https://cdn.jsdelivr.net/gh/shiyuen88888-a11y/xiaoxiaole@main/xiaoxiaole.apk","changelog":"更新检测改成双通道：优先查 GitHub 原始链接，查不到再走 jsDelivr，检测更稳。","versionCode":24,"versionName":"3.7.3"}
+{"apkUrl":"https://cdn.jsdelivr.net/gh/shiyuen88888-a11y/xiaoxiaole@b796f5f/xiaoxiaole.apk","changelog":"更新检测改成双通道：优先查 GitHub 原始链接，查不到再走 jsDelivr，检测更稳。","versionCode":24,"versionName":"3.7.3"}
